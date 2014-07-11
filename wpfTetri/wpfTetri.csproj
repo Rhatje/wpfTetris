@@ -119,10 +119,6 @@
     <Resource Include="Images\Knop_Sluit.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\Auto.png" />
-    <Resource Include="Images\Auto_Gedraaid.png" />
-    <Resource Include="Images\Auto_Klein.png" />
-    <Resource Include="Images\Car.png" />
     <Resource Include="Images\Knop_Forward.png" />
     <Resource Include="Images\Knop_Opties.png" />
     <Resource Include="Images\Knop_Pauze.png" />
